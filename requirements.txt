@@ -3,20 +3,4 @@ numpy
 matplotlib
 nltk
 spacy
-
-
-# --- Data Handling & Analysis / Veri İşleme ---
-pandas
-numpy
-
-# --- Visualization / Veri Görselleştirme (Zipf Yasası için) ---
-matplotlib
-seaborn
-
-# --- Natural Language Processing (NLP) / Doğal Dil İşleme ---
-nltk
-spacy
-re
-
-# --- Development Environment / Geliştirme Ortamı ---
 ipykernel
