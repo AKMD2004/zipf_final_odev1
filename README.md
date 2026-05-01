@@ -5,9 +5,10 @@ This project performs text preprocessing and Zipf Law analysis.
 
 ## How to Run
 1. Install requirements:
-pip install -r requirements.txt
+2. pip install --upgrade pip setuptools wheel
+   pip install -r requirements.txt
 
-2. Run the notebook:
+4. Run the notebook:
 Open final_project.ipynb in Jupyter
 
 ## Files
